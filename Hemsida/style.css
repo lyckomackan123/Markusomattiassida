@@ -1,0 +1,13 @@
+body{
+  color: blue;
+}
+nav{
+  width:100%;
+}
+nav ul li{
+list-style-type:none;
+float:left;
+}
+nav ul{
+  float:right;
+}
